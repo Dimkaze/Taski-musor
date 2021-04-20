@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  The contents of <string_view> are available only with C++17 or later.
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(62,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(38): warning C4715: primary: значение возвращается не при всех путях выполнения
+  B_Taski.vcxproj -> C:\Programirovanie\c++\B_Taski\Debug\B_Taski.exe
