@@ -1,6 +1,13 @@
 ﻿  Source.cpp
   The contents of <string_view> are available only with C++17 or later.
-C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(105,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(192,24): warning C4101: opa: неиспользованная локальная переменная
-C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(43): warning C4715: primary: значение возвращается не при всех путях выполнения
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(137,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(162,10): warning C4477: "scanf": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "_Ty *"
+          with
+          [
+              _Ty=char
+          ]
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(162,10): message : рекомендуется использовать "%hS" в строке форматирования
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(162,10): message : рекомендуется использовать "%TS" в строке форматирования
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(262,6): warning C4101: b: неиспользованная локальная переменная
+C:\Programirovanie\c++\B_Taski\B_Taski\Source.cpp(47): warning C4715: primary: значение возвращается не при всех путях выполнения
   B_Taski.vcxproj -> C:\Programirovanie\c++\B_Taski\Debug\B_Taski.exe
